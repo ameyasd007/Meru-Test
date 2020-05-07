@@ -1,0 +1,11 @@
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\bin\Debug\Meru Test.exe.config
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\bin\Debug\Meru Test.exe
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\bin\Debug\Meru Test.pdb
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\obj\Debug\Meru Test.csprojAssemblyReference.cache
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\obj\Debug\Meru Test.exe
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\obj\Debug\Meru Test.pdb
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\bin\Debug\EntityFramework.dll
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\bin\Debug\EntityFramework.xml
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ameya\Source\repos\Meru Test\Meru Test\obj\Debug\Meru Test.csproj.CopyComplete
